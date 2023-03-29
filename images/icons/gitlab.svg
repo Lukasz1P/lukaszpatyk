@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:v="http://vecta.io" width="48" height="36" viewBox="0 0 48 36">
+    <style>
+        <![CDATA[svg{stroke:#000;stroke-linecap:round;stroke-linejoin:round;fill:#fff;fill-rule:evenodd;font-family:Roboto;font-size:14px;text-anchor:middle;}svg text{paint-order:stroke;white-space:pre;}svg .Text\.cls{stroke:none;}]]>
+    </style>
+    <g>
+        <g>
+            <g transform="translate(14.923139 13.573291)">
+                <path d="M 8.6989 21.704 L 17.3978 0 L 0 0 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#e24329" stroke-width="1.000000511110791"/>
+            </g>
+            <g transform="translate(2.731077 13.573291)">
+                <path d="M 20.891 21.704 L 12.1921 0 L 0 0 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#fc6d26" stroke-width="1.000000511110791"/>
+            </g>
+            <g transform="translate(-0.000003 13.573291)">
+                <path d="M 2.7311 0 L 0.0883 6.5991 C -0.1528 7.2006 0.1112 7.8594 0.7424 8.2312 L 23.6221 21.704 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#fca326" stroke-width="1.000000511110791"/>
+            </g>
+            <g transform="translate(2.731077 0.005982)">
+                <path d="M 0 13.5673 L 12.1913 13.5673 L 6.9523 0.5043 C 6.6829 -0.1681 5.5092 -0.1681 5.2398 0.5043 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#e24329" stroke-width="1.000000511110791"/>
+            </g>
+            <g transform="translate(23.622054 13.573291)">
+                <path d="M 0 21.704 L 8.6989 0 L 20.891 0 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#fc6d26" stroke-width="1.000000511110791"/>
+            </g>
+            <g transform="translate(23.622054 13.573291)">
+                <path d="M 20.891 0 L 23.5338 6.5932 C 23.7748 7.1946 23.5108 7.8535 22.8798 8.2252 L 0 21.704 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#fca326" stroke-width="1.000000511110791"/>
+            </g>
+            <g transform="translate(32.320969 0)">
+                <path d="M 12.1921 13.5733 L 0 13.5733 L 5.2398 0.5043 C 5.5092 -0.1681 6.6829 -0.1681 6.9523 0.5043 Z" stroke="none" stroke-linejoin="miter" stroke-linecap="butt" fill="#e24329" stroke-width="1.000000511110791"/>
+            </g>
+        </g>
+    </g>
+</svg>
