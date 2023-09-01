@@ -384,6 +384,10 @@ header.active {
 
 /* PROJECTS*/
 
+p.project-description{
+    height: 15rem;
+}
+
 .projects-content{
     display:grid;
     margin: 3rem 0rem 4rem 0;
