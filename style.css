@@ -72,7 +72,7 @@ body {
   --textColorHover: #26224b;
 
   /* Box shadow style */
-  --shadow: rgba(0, 0, 0, 0.062) 0px 3px 5px;
+  --shadow: rgba(0, 0, 0, 0.137) 8px 8px 8px;
 
   /* Box shadow hovers */
   --shadowHover: rgba(143, 143, 143, 0.212) 0px 5px 15px;
@@ -385,7 +385,7 @@ header.active {
 /* PROJECTS*/
 
 p.project-description{
-    height: 15rem;
+    min-height: 15rem;
 }
 
 .projects-content{
@@ -401,6 +401,7 @@ p.project-description{
 }
 .project-content-card img {
     width: 70%;
+    height: 271px;
     display: block;
     margin: 0 auto;
 }
